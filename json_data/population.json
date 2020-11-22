@@ -1,0 +1,273 @@
+{
+    "india": {
+        "gTitle": "Indian Population For Year 2004 - 2014",
+        "xLabels": [
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014"
+        ],
+        "xText": "Years",
+        "yText": "Population in millions",
+        "data": [
+            1126,
+            1144,
+            1161,
+            1179,
+            1197,
+            1214,
+            1230,
+            1247,
+            1263,
+            1278,
+            1293
+        ]
+    },
+    "asean": {
+        "gTitle": "ASEAN Countries Population For Year 2014",
+        "xLabels": [
+            "Brunei",
+            "Combodia",
+            "Indonesia",
+            "Laos",
+            "Malaysia",
+            "Myanmar",
+            "Philippines",
+            "Singapore",
+            "Thailand",
+            "Vietnam"
+        ],
+        "xText": "Countries",
+        "yText": "Population in millions",
+        "data": [
+            0,
+            15,
+            255,
+            6,
+            30,
+            51,
+            100,
+            5,
+            68,
+            92
+        ]
+    },
+    "saarc": {
+        "gTitle": "SAARC Countries Population For Year 2004 - 2014",
+        "xLabels": [
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014"
+        ],
+        "xText": "Years",
+        "yText": "Population in millions",
+        "data": [
+            1487,
+            1512,
+            1536,
+            1560,
+            1584,
+            1607,
+            1630,
+            1653,
+            1676,
+            1699,
+            1721
+        ]
+    },
+    "aseanGb": {
+        "gTitle": "ASEAN Countries Population For Year 2004 - 2014",
+        "xLabels": [
+            "2004",
+            "2005",
+            "2006",
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014"
+        ],
+        "xText": "Years",
+        "yText": "Population in millions",
+        "data": [
+            {
+                "name": "Brunei",
+                "data": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            {
+                "name": "Cambodia",
+                "data": [
+                    13,
+                    13,
+                    13,
+                    13,
+                    13,
+                    14,
+                    14,
+                    14,
+                    14,
+                    15,
+                    15
+                ]
+            },
+            {
+                "name": "Indonesia",
+                "data": [
+                    223,
+                    226,
+                    229,
+                    232,
+                    236,
+                    239,
+                    242,
+                    245,
+                    248,
+                    252,
+                    255
+                ]
+            },
+            {
+                "name": "Laos",
+                "data": [
+                    5,
+                    5,
+                    5,
+                    5,
+                    6,
+                    6,
+                    6,
+                    6,
+                    6,
+                    6,
+                    6
+                ]
+            },
+            {
+                "name": "Malaysia",
+                "data": [
+                    25,
+                    25,
+                    26,
+                    26,
+                    27,
+                    27,
+                    28,
+                    28,
+                    29,
+                    29,
+                    30
+                ]
+            },
+            {
+                "name": "Myanmar",
+                "data": [
+                    48,
+                    48,
+                    48,
+                    49,
+                    49,
+                    49,
+                    50,
+                    50,
+                    50,
+                    51,
+                    51
+                ]
+            },
+            {
+                "name": "Philippines",
+                "data": [
+                    84,
+                    86,
+                    87,
+                    89,
+                    90,
+                    92,
+                    93,
+                    95,
+                    96,
+                    98,
+                    100
+                ]
+            },
+            {
+                "name": "Singapore",
+                "data": [
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    4,
+                    5,
+                    5,
+                    5,
+                    5,
+                    5
+                ]
+            },
+            {
+                "name": "Thailand",
+                "data": [
+                    65,
+                    65,
+                    65,
+                    66,
+                    66,
+                    66,
+                    67,
+                    67,
+                    67,
+                    68,
+                    68
+                ]
+            },
+            {
+                "name": "Vietnam",
+                "data": [
+                    83,
+                    84,
+                    85,
+                    85,
+                    86,
+                    87,
+                    88,
+                    89,
+                    90,
+                    91,
+                    92
+                ]
+            }
+        ]
+    }
+}
